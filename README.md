@@ -1,4 +1,5 @@
 ### Hello World 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/768px-Ruby_logo.svg.png" width="200">
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/768px-Ruby_logo.svg.png)
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png)
 ![Alt text](https://cdn.cdnlogo.com/logos/s/13/swift.svg)
